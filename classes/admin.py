@@ -8,3 +8,4 @@ to_register = [
 ]
 
 admin.site.register(to_register)
+admin.site.register(models.Course)
